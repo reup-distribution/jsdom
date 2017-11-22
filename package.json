@@ -37,7 +37,7 @@
     "tough-cookie": "^2.3.3",
     "webidl-conversions": "^4.0.2",
     "whatwg-encoding": "^1.0.1",
-    "whatwg-url": "^6.3.0",
+    "whatwg-url": "git@github.com:reup-distribution/whatwg-url.git",
     "xml-name-validator": "^2.0.1"
   },
   "devDependencies": {
@@ -65,7 +65,7 @@
     "st": "^1.2.0",
     "watchify": "^3.9.0",
     "wd": "^1.4.0",
-    "webidl2js": "^8.0.0"
+    "webidl2js": "git@github.com:jsdom/webidl2js.git#e4200723552b7e43faca61e3d16ce473c3d0da4a"
   },
   "browser": {
     "canvas": false,
